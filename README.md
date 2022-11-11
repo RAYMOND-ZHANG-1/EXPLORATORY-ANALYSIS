@@ -14,5 +14,5 @@ Also, find out any correlations between famous movies and unfamous movies.
 Movies Dataset | Kaggle
 
 ### LIMITATIONS AND ETHICS:
-▪ This dataset only contains 5000 movies may cause rank error due to the limitation.
-▪ This dataset was considered as not never update frequency would be caused timeliness 
+##### This dataset only contains 5000 movies may cause rank error due to the limitation.
+##### This dataset was considered as not never update frequency would be caused timeliness 
